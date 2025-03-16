@@ -1,0 +1,9 @@
+Python Software Foundation. (2023). Python 3 Documentation. Retrieved from https://docs.python.org/3/
+
+Lundh, F. (2001). An Introduction to Tkinter. Retrieved from https://www.python-course.eu/tkinter.php
+
+GeeksforGeeks. (n.d.). Python GUI – tkinter. Retrieved from https://www.geeksforgeeks.org/python-gui-tkinter/
+
+Sweigart, A. (2015). Automate the Boring Stuff with Python: Practical Programming for Total Beginners. No Starch Press. Retrieved from https://automatetheboringstuff.com/
+
+Martelli, A., Ravenscroft, A., & Holden, S. (2005). Python in a Nutshell (2nd ed.). O'Reilly Media.
